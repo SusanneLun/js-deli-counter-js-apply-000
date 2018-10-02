@@ -22,5 +22,7 @@ return `The line is currently: ${katzDeliLine[]. ${name}, `;
 
 var line=[];
 
-
+for(var i=0;i<katzDeliLine.length;i++) {
+      line.push(` ${i+1}. ${katzDeliLine[i]}`);
+    }
 
