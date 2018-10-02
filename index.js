@@ -15,9 +15,11 @@ function nowServing(katzDeliLine) {
 
 function currentLine(katzDeliLine) {
 if (katzDeliLine>[]) {
-return `The line is currently: ${katzDeliLine}. ${name}, `;
+return `The line is currently: ${katzDeliLine[]. ${name}, `;
 } else { 
   return `The line is currently empty.`; }
 }
 
 ___________________________________________________________
+
+
