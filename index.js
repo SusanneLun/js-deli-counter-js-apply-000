@@ -20,6 +20,7 @@ return `The line is currently: ${katzDeliLine[]. ${name}, `;
   return `The line is currently empty.`; }
 }
 
-___________________________________________________________
+var line=[];
+
 
 
